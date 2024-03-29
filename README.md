@@ -30,7 +30,7 @@ Airflow process contains three main processes which is data extraction, data cle
 Total Sales per Season by Gender
 ![Total Sales per Season by Gender](./images/plot1.png)
 ---
-Total Sales per Location by Gende
+Total Sales per Location by Gender
 ![Total Sales per Location by Gender](./images/plot2.png)
 ---
 Total Product by Gender
