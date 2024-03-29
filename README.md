@@ -23,26 +23,31 @@ This ETL projects perform a batch processing with scheduler for automation using
 
 ## Airflow Process
 Airflow process contains three main processes which is data extraction, data cleaning and data saving. This process is scheduled every 6.30 AM everyday. Here are the DAGs result.
-(./images/airflow.png)
+![airflow](./images/airflow.png)
 
 ## Exploratory Data Analysis
 ---
+Total Sales per Season by Gender
 ![Total Sales per Season by Gender](./images/plot1.png)
 ---
+Total Sales per Location by Gende
 ![Total Sales per Location by Gender](./images/plot2.png)
 ---
-![Total Product by Gender](./images/plot3.png)
+Total Product by Gender
+![Total Product Sold by Gender](./images/plot3.png)
 ---
+Average Rating by Gender
 ![Average Rating by Gender](./images/plot4.png)
 ---
+Average Repeat Purchased by Gender
 ![Average Repeat Purchased by Gender](./images/plot5.png)
 ---
+Percentage Membership by Gender
 ![Percentage Membership by Gender](./images/plot6.png)
 
 ## Conclussion
 ---
 ![](./images/conclusion.png)
-
 
 ## Acknowledgements
 E-commerce customers transaction data used in this project was obtained from [Kaggle](https://www.kaggle.com/datasets/zeesolver/consumer-behavior-and-shopping-habits-dataset/discussion?sort=votes)
